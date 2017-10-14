@@ -1,0 +1,15 @@
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/
+.sass-cache/
+public/system
+public/assets/*
+*.DS_Store
+*.swp
+*.swo
+tags
+/config/application.yml
+/config/database.yml
+*.dump
+temp.txt
